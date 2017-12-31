@@ -1,0 +1,28 @@
+.bg {
+  padding: 30px;
+}
+
+.extra-top-padding {
+  padding-top: 55px !important;
+  padding-bottom: 55px !important;
+}
+
+.bg-black {
+  background-color: #212121;
+}
+
+.bg-green {
+  background-color: #4caf50;
+}
+
+.bg-blue {
+  background-color: #003346;
+}
+
+.bg-light-blue {
+  background-color: #4bbafa;
+}
+
+.bg-red {
+  background-color: #cd3738;
+}
