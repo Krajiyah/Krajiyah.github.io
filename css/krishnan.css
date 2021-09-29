@@ -1,0 +1,21 @@
+.skill_item_contents {
+    display: flex;
+}
+
+.skill_item_contents>h4 {
+    align-self: flex-start;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.skill_item_img {
+    align-self: flex-end;
+    position: absolute;
+    right: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.skill_item {
+    margin-bottom: 30px !important;
+}
